@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\ArWEBAPI\LibreriasArWEB\bin\Debug\netcoreapp3.1\LibreriasArWEB.exe
+C:\Users\HP\source\repos\ArWEBAPI\LibreriasArWEB\bin\Debug\netcoreapp3.1\LibreriasArWEB.deps.json
+C:\Users\HP\source\repos\ArWEBAPI\LibreriasArWEB\bin\Debug\netcoreapp3.1\LibreriasArWEB.runtimeconfig.json
+C:\Users\HP\source\repos\ArWEBAPI\LibreriasArWEB\bin\Debug\netcoreapp3.1\LibreriasArWEB.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ArWEBAPI\LibreriasArWEB\bin\Debug\netcoreapp3.1\LibreriasArWEB.dll
+C:\Users\HP\source\repos\ArWEBAPI\LibreriasArWEB\bin\Debug\netcoreapp3.1\LibreriasArWEB.pdb
+C:\Users\HP\source\repos\ArWEBAPI\LibreriasArWEB\obj\Debug\netcoreapp3.1\LibreriasArWEB.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ArWEBAPI\LibreriasArWEB\obj\Debug\netcoreapp3.1\LibreriasArWEB.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ArWEBAPI\LibreriasArWEB\obj\Debug\netcoreapp3.1\LibreriasArWEB.AssemblyInfo.cs
+C:\Users\HP\source\repos\ArWEBAPI\LibreriasArWEB\obj\Debug\netcoreapp3.1\LibreriasArWEB.dll
+C:\Users\HP\source\repos\ArWEBAPI\LibreriasArWEB\obj\Debug\netcoreapp3.1\LibreriasArWEB.pdb
+C:\Users\HP\source\repos\ArWEBAPI\LibreriasArWEB\obj\Debug\netcoreapp3.1\LibreriasArWEB.genruntimeconfig.cache
