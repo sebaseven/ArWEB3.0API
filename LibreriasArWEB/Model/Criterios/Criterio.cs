@@ -20,19 +20,11 @@ namespace LibreriasArWEB.Model.Criterios
             this.setNivelAccesibilidad(nivelAccesibilidad);
             foreach (Tecnica tecnica in getTecnicasAAgregar())
             {
-
+                this.agregarTecnica(tecnica);
             }
-
+            this.setVersionesWCAG(versionesWCAG);
         }
-        //public Criterio(String numero, String nombre, String descripcion, NivelAccesibilidad nivelAccesibilidad, List<String> versionesWCAG)
-        //{
-        //    this.setTecnicas(new List<Tecnica>());
-        //    this.setNivelAccesibilidad(nivelAccesibilidad);
-        //    for (Tecnica tecnica : this.getTecnicasAAgregar())
-        //        this.agregarTecnica(tecnica);
-        //    this.setVersionesWCAG(versionesWCAG);
-        //}
-
+ 
         public abstract List<Tecnica> getTecnicasAAgregar();
 
         private void agregarTecnica(Tecnica tecnica)
@@ -78,11 +70,6 @@ namespace LibreriasArWEB.Model.Criterios
             this.versionesWCAG = versionesWCAG;
         }
 
-
-        //public String getPackageClassName()
-        //{
-        //	return this.getClass().getCanonicalName();
-        //}
 
         public String toString()
         {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\ArWEBAPI\\LibreriasArWEB\\LibreriasArWEB.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\sebaseven\\ArWEB3.0API\\LibreriasArWEB\\LibreriasArWEB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\ArWEBAPI\\LibreriasArWEB\\LibreriasArWEB.csproj": {
+    "C:\\Users\\HP\\source\\repos\\sebaseven\\ArWEB3.0API\\LibreriasArWEB\\LibreriasArWEB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\ArWEBAPI\\LibreriasArWEB\\LibreriasArWEB.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\sebaseven\\ArWEB3.0API\\LibreriasArWEB\\LibreriasArWEB.csproj",
         "projectName": "LibreriasArWEB",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\ArWEBAPI\\LibreriasArWEB\\LibreriasArWEB.csproj",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\sebaseven\\ArWEB3.0API\\LibreriasArWEB\\LibreriasArWEB.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\ArWEBAPI\\LibreriasArWEB\\obj\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\sebaseven\\ArWEB3.0API\\LibreriasArWEB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\ArWEBAPI\\ArWEBAPI\\ArWEBAPI.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\sebaseven\\ArWEB3.0API\\ArWEBAPI\\ArWEBAPI.csproj",
       "projectName": "ArWEBAPI",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\ArWEBAPI\\ArWEBAPI\\ArWEBAPI.csproj",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\sebaseven\\ArWEB3.0API\\ArWEBAPI\\ArWEBAPI.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\ArWEBAPI\\ArWEBAPI\\obj\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\sebaseven\\ArWEB3.0API\\ArWEBAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
