@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\sebaseven\\ArWEB3.0API\\ArWEBAPI\\ArWEBAPI.csproj": {}
+    "C:\\Users\\HP\\Source\\Repos\\sebaseven\\ArWEB3.0API\\ArWEBAPI\\ArWEBAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\sebaseven\\ArWEB3.0API\\ArWEBAPI\\ArWEBAPI.csproj": {
+    "C:\\Users\\HP\\Source\\Repos\\sebaseven\\ArWEB3.0API\\ArWEBAPI\\ArWEBAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\sebaseven\\ArWEB3.0API\\ArWEBAPI\\ArWEBAPI.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Source\\Repos\\sebaseven\\ArWEB3.0API\\ArWEBAPI\\ArWEBAPI.csproj",
         "projectName": "ArWEBAPI",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\sebaseven\\ArWEB3.0API\\ArWEBAPI\\ArWEBAPI.csproj",
+        "projectPath": "C:\\Users\\HP\\Source\\Repos\\sebaseven\\ArWEB3.0API\\ArWEBAPI\\ArWEBAPI.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\sebaseven\\ArWEB3.0API\\ArWEBAPI\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Source\\Repos\\sebaseven\\ArWEB3.0API\\ArWEBAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -59,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

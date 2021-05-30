@@ -10,3 +10,17 @@ C:\Users\HP\source\repos\ArWEBAPI\LibreriasArWEB\obj\Debug\netcoreapp3.1\Libreri
 C:\Users\HP\source\repos\ArWEBAPI\LibreriasArWEB\obj\Debug\netcoreapp3.1\LibreriasArWEB.dll
 C:\Users\HP\source\repos\ArWEBAPI\LibreriasArWEB\obj\Debug\netcoreapp3.1\LibreriasArWEB.pdb
 C:\Users\HP\source\repos\ArWEBAPI\LibreriasArWEB\obj\Debug\netcoreapp3.1\LibreriasArWEB.genruntimeconfig.cache
+C:\Users\HP\Source\Repos\sebaseven\ArWEB3.0API\LibreriasArWEB\obj\Debug\netcoreapp3.1\LibreriasArWEB.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\sebaseven\ArWEB3.0API\LibreriasArWEB\obj\Debug\netcoreapp3.1\LibreriasArWEB.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\sebaseven\ArWEB3.0API\LibreriasArWEB\obj\Debug\netcoreapp3.1\LibreriasArWEB.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\sebaseven\ArWEB3.0API\LibreriasArWEB\obj\Debug\netcoreapp3.1\LibreriasArWEB.dll
+C:\Users\HP\Source\Repos\sebaseven\ArWEB3.0API\LibreriasArWEB\obj\Debug\netcoreapp3.1\LibreriasArWEB.pdb
+C:\Users\HP\Source\Repos\sebaseven\ArWEB3.0API\LibreriasArWEB\bin\Debug\netcoreapp3.1\LibreriasArWEB.exe
+C:\Users\HP\Source\Repos\sebaseven\ArWEB3.0API\LibreriasArWEB\bin\Debug\netcoreapp3.1\LibreriasArWEB.deps.json
+C:\Users\HP\Source\Repos\sebaseven\ArWEB3.0API\LibreriasArWEB\bin\Debug\netcoreapp3.1\LibreriasArWEB.runtimeconfig.json
+C:\Users\HP\Source\Repos\sebaseven\ArWEB3.0API\LibreriasArWEB\bin\Debug\netcoreapp3.1\LibreriasArWEB.runtimeconfig.dev.json
+C:\Users\HP\Source\Repos\sebaseven\ArWEB3.0API\LibreriasArWEB\bin\Debug\netcoreapp3.1\LibreriasArWEB.dll
+C:\Users\HP\Source\Repos\sebaseven\ArWEB3.0API\LibreriasArWEB\bin\Debug\netcoreapp3.1\LibreriasArWEB.pdb
+C:\Users\HP\Source\Repos\sebaseven\ArWEB3.0API\LibreriasArWEB\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\HP\Source\Repos\sebaseven\ArWEB3.0API\LibreriasArWEB\obj\Debug\netcoreapp3.1\LibreriasArWEB.csproj.CopyComplete
+C:\Users\HP\Source\Repos\sebaseven\ArWEB3.0API\LibreriasArWEB\obj\Debug\netcoreapp3.1\LibreriasArWEB.genruntimeconfig.cache

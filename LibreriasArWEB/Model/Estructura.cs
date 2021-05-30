@@ -48,7 +48,7 @@ namespace LibreriasArWEB.Model
 			this.descripcion = descripcion;
 		}
 
-		public string toString()
+		public virtual string toString()
 		{
 			return this.getNumero() + ": " + this.getNombre() + " - " + this.getDescripcion();
 		}
